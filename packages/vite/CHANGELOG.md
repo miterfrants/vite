@@ -1,3 +1,9 @@
+## <small>2.9.7 (2022-04-27)</small>
+
+* feat: change sass processor with node-sass instead of dart sass ([0deba6e](https://github.com/vitejs/vite/commit/0deba6e))
+
+
+
 ## <small>2.9.6 (2022-04-26)</small>
 
 * fix: `apply` condition skipped for nested plugins (#7741) ([1f2ca53](https://github.com/vitejs/vite/commit/1f2ca53)), closes [#7741](https://github.com/vitejs/vite/issues/7741)
